@@ -30,12 +30,12 @@ Universiti Teknologi Malaysia (2024 – Present)
 
 | No | Assignment | Description | Link |
 |:-:|------------|-------------|------|
-| 1 | **Industry Talk / Visit** | Report and reflection on industrial visit or talk. | [View](#) |
-| 2 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](#) |
-| 3 | **Design Thinking** | Low-fidelity prototype and poster. | [View](#) |
-| 4 | **Tic-Tac-Toe Project** | Group project: C++ game explanation and presentation. | [View](#) |
-| 5 | **Network Infrastructure** | LAN and WAN connections task. | [View](#) |
-| 6 | **Database Project** | Database design project (Phase 1). | [View](#) |
+| 1 | **Industry Talk / Visit** | Report and reflection on industrial visit. | [View](Industrial%20Report.pdf) |
+| 2 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](PC%20assemble.jpeg) |
+| 3 | **Design Thinking** | Low-fidelity prototype and poster. | [View](Poster%20design%20thinking.pdf) |
+| 4 | **Tic-Tac-Toe Project** | Group project: C++ game source code. | [Download Code](TicTacToeV3-master.zip) |
+| 5 | **Network Infrastructure** | LAN and WAN connections task. | [View](SECR1213%20Network%20Communications%20-%20Project%20-%20Network%20Design%20Report.docx) |
+| 6 | **Database Project** | Database design project (Phase 1). | [View](Database%20Phase%201.pdf) |
 
 ---
 
