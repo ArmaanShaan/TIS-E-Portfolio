@@ -1,120 +1,68 @@
-# Muhammad Rendy Atsary – TIS E-Portfolio
-## Technology and Information System (SECP1513)
+<h1 align="center">Armaan Shaan</h1>
+<p align="center">
+  <b>Computer Science Student</b> • Graphics • Multimedia • Johor, Malaysia
+</p>
+
+<p align="center">
+  <a href="mailto:muhammadrendyatsary@graduate.utm.my">Email</a> •
+  <a href="https://github.com/ArmaanShaan">GitHub</a>
+</p>
 
 ---
 
-## 👤 About Me
-**Name:** Muhammad Rendy Atsary  
-**Student ID:** A24CS9003  
-**University:** Universiti Teknologi Malaysia (UTM)
+## 👨‍💻 About Me
 
-### Summary
-I am a first-year Computer Science student majoring in Graphics and Multimedia Software. I am interested in technology, especially graphics, multimedia, and software development. This e-portfolio documents my learning progress, assignments, and reflections throughout the Technology and Information System course.
+I am a first-year Computer Science undergraduate at Universiti Teknologi Malaysia (UTM).  
+My focus areas include graphics systems, multimedia software, and structured software development.  
+I strengthen my technical foundation through coursework, hands-on projects, and continuous learning.
+
+---
+
+## 🧠 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Classroom Booking Management System (CBMS)
+
+**Description:**  
+A centralized, database-driven system developed to manage classroom reservations efficiently in educational institutions.
+
+**Technologies Used:**  
+C++, MySQL, Database Design, System Analysis  
+
+<a href="https://github.com/ArmaanShaan/CBMS">View Repository</a>
+
+</td>
+
+<td width="50%">
+
+### Tic Tac Toe (2D Game Project)
+
+**Description:**  
+A graphical 2D Tic-Tac-Toe game built using C++ and the WinBGIm graphics library.
+
+**Technologies Used:**  
+C++, WinBGIm, Game Logic Implementation  
+
+<a href="https://github.com/ArmaanShaan/TicTacToe">View Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
-**Bachelor of Computer Science (Graphics and Multimedia Software)**  
-Universiti Teknologi Malaysia (2024 – Present)
 
----
-
-## 🛠 Skills
-- **Programming:** C++  
-- **Tools:** GitHub, Microsoft Office, Canva  
-- **Languages:** English, Bahasa Melayu, Bahasa Indonesia  
-- **Soft Skills:** Teamwork, Problem Solving, Design Thinking  
-
----
-
-## 📂 Course Assignments
-
-| No | Assignment | Description | Link |
-|:-:|------------|-------------|------|
-| 1 | **Industry Talk / Visit (Report)** | Report and reflection on industrial visit. | [View](Industrial%20Report.pdf) |
-| 2 | **Industry Visit (Newsletter)** | Newsletter for industrial visit (Assignment 4). | [View](TIS%20Assignment4%20-%20Newslwtter.pdf) |
-| 3 | **Assignment 2 (PDF)** | Coursework document for Assignment 2. | [View](TIS%20SEC09%20G3%20Assignment%202.pdf) |
-| 4 | **PC Assemble (Lab)** | Hands-on lab on assembling computer hardware. | [View](PC%20assemble.jpeg) |
-| 5 | **Design Thinking** | Low-fidelity prototype and poster. | [View](Poster%20design%20thinking.pdf) |
-| 6 | **Tic-Tac-Toe Project** | Group project: C++ game source code. | [Download Code](TicTacToeV3-master.zip) |
-| 7 | **Network Infrastructure** | LAN and WAN connections task. | [View](https://github.com/muhammadrendyatsary/TIS-E-Portfolio/blob/main/SECR1213%20Network%20Communications%20-%20Project%20%20Network%20Design%20Report.pdf) |
-| 8 | **Database Project** | Database design project (Phase 1). | [View](Database%20Phase%201.pdf) |
-
----
-
-## 📝 Reflections
-
-### 1. Industry Talk / Visit (Report)
-**What I gained:**  
-During the industrial visit, I realized that future developers are expected to evolve into system architects rather than only focusing on writing code. The session highlighted the importance of understanding how different technologies and components work together within a system.
-
-**Improvement:**  
-The session could be improved by allowing more time for interaction and questions with the speaker.
-
----
-
-### 2. Industry Visit (Newsletter)
-**What I gained:**  
-Creating the newsletter helped me summarize key points from the visit clearly and present information in a structured and easy-to-read format.
-
-**Improvement:**  
-I can improve the newsletter by adding more visuals/data (if available) and making the layout more consistent.
-
----
-
-### 3. Assignment 2 (PDF)
-**What I gained:**  
-This assignment strengthened my understanding of the topic and improved my ability to organize coursework into a proper report format.
-
-**Improvement:**  
-Next time, I will start earlier so I have more time to review and improve the quality.
-
----
-
-### 4. PC Assemble
-**What I gained:**  
-I learned to identify the main components of a computer and how to safely assemble hardware such as the motherboard, CPU, RAM, and power supply.
-
-**Improvement:**  
-More hands-on time, especially for cable management, would improve the learning experience.
-
----
-
-### 5. Design Thinking
-**What I gained:**  
-I learned how to apply the design thinking process to solve problems and collaborate with my group to create a low-fidelity prototype and poster.
-
-**Improvement:**  
-Better task distribution within the group would improve efficiency.
-
----
-
-### 6. Tic-Tac-Toe Project
-**What I gained:**  
-I improved my understanding of C++ logic and teamwork skills through explaining the game flow during the presentation.
-
-**Improvement:**  
-The project could be improved by implementing a graphical user interface.
-
----
-
-### 7. Network Infrastructure
-**What I gained:**  
-I learned the differences between LAN and WAN connections and how network infrastructure supports communication between devices.
-
-**Improvement:**  
-More real-world examples would help strengthen understanding.
-
----
-
-### 8. Database Project
-**What I gained:**  
-I learned basic database design concepts such as ERD creation, table relationships, and normalization.
-
-**Improvement:**  
-Using real datasets would make the learning experience more practical.
-
----
-
-## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/rendy-atsary-4024a0337
+**Uni**
